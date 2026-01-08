@@ -23,7 +23,7 @@ An MCP (Model Context Protocol) server that aggregates and analyzes customer fee
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/aksh-ay06/feedback-mcp-server)
+git clone https://github.com/aksh-ay06/feedback-mcp-server
 cd feedback-mcp-server
 ```
 
